@@ -2,5 +2,5 @@
     "firefox": "/AppData/Roaming/Mozilla/Firefox/Profiles",
     "chrome": "C:/Users/green-dev/AppData/Local/Google/Chrome/User Data/Default/Network/Cookies",
     "opera": "/AppData/Roaming/Opera/Opera/cookies4.dat",
-    "edge": "/AppData/Local/Microsoft/Edge/User Data/Default/Network"
+    "edge": "/AppData/Local/Microsoft/Edge/User Data/Default/Network/Cookies"
 }
